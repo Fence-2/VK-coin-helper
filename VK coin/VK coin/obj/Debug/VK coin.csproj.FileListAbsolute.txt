@@ -1,0 +1,18 @@
+C:\Users\Fence_2\Documents\Visual Studio 2015\Projects\VK coin\VK coin\bin\Debug\VK coin.exe.config
+C:\Users\Fence_2\Documents\Visual Studio 2015\Projects\VK coin\VK coin\bin\Debug\VK coin.exe
+C:\Users\Fence_2\Documents\Visual Studio 2015\Projects\VK coin\VK coin\bin\Debug\VK coin.pdb
+C:\Users\Fence_2\Documents\Visual Studio 2015\Projects\VK coin\VK coin\obj\Debug\VK coin.csprojResolveAssemblyReference.cache
+C:\Users\Fence_2\Documents\Visual Studio 2015\Projects\VK coin\VK coin\obj\Debug\VK_coin.Form1.resources
+C:\Users\Fence_2\Documents\Visual Studio 2015\Projects\VK coin\VK coin\obj\Debug\VK_coin.Properties.Resources.resources
+C:\Users\Fence_2\Documents\Visual Studio 2015\Projects\VK coin\VK coin\obj\Debug\VK coin.csproj.GenerateResource.Cache
+C:\Users\Fence_2\Documents\Visual Studio 2015\Projects\VK coin\VK coin\obj\Debug\VK coin.exe
+C:\Users\Fence_2\Documents\Visual Studio 2015\Projects\VK coin\VK coin\obj\Debug\VK coin.pdb
+C:\Users\Fence_2\Desktop\C#\Projects\VK coin\VK coin\bin\Debug\VK coin.exe.config
+C:\Users\Fence_2\Desktop\C#\Projects\VK coin\VK coin\obj\Debug\VK coin.exe
+C:\Users\Fence_2\Desktop\C#\Projects\VK coin\VK coin\obj\Debug\VK coin.pdb
+C:\Users\Fence_2\Desktop\C#\Projects\VK coin\VK coin\bin\Debug\VK coin.exe
+C:\Users\Fence_2\Desktop\C#\Projects\VK coin\VK coin\bin\Debug\VK coin.pdb
+C:\Users\Fence_2\Desktop\C#\Projects\VK coin\VK coin\obj\Debug\VK coin.csprojResolveAssemblyReference.cache
+C:\Users\Fence_2\Desktop\C#\Projects\VK coin\VK coin\obj\Debug\VK_coin.Form1.resources
+C:\Users\Fence_2\Desktop\C#\Projects\VK coin\VK coin\obj\Debug\VK_coin.Properties.Resources.resources
+C:\Users\Fence_2\Desktop\C#\Projects\VK coin\VK coin\obj\Debug\VK coin.csproj.GenerateResource.Cache
